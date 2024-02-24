@@ -1,13 +1,13 @@
 /* ปรับแต่ง style ของ body */
 body {
   font-family: Arial, sans-serif;
-  margin: 40px;
+  margin: 20px;
 }
 
 /* ปรับแต่ง style ของ h1 */
 h1 {
   font-size: 24px;
-  margin-top: 5;
+  margin-top: 50;
 }
 
 /* ปรับแต่ง style ของ form */
