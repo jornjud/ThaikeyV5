@@ -7,7 +7,7 @@ body {
 /* ปรับแต่ง style ของ h1 */
 h1 {
   font-size: 24px;
-  margin-top: 50;
+  margin-top: 0;
 }
 
 /* ปรับแต่ง style ของ form */
